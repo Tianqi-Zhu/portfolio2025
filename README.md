@@ -48,6 +48,6 @@ I am a master student in MComp(AI) at NUS. I am interested in making AI algorith
 ### Volunteer mentor at [CCSGP](https://www.ccsgp.comp.nus.edu.sg/)
 - Mentored kids programming class.
 ### Technical consulting associate at [Bridges for Enterprised Singapore](https://www.bridgesforenterprise.com/volunteers/chapters/singapore)
-- Helped [Sonvisage](https://sonvisage.com/about) write some scripts.
+- Helped [Sonvisage](https://sonvisage.com/about), an African healthcare IoT startup, write some scripts.
 
 
