@@ -10,7 +10,8 @@ I am a master student in MComp(AI) at NUS. I am interested in making AI algorith
 ## On-going Projects
 
 ### Dacing Spark, Happy Neurons: Game for emotional well-being
-- Game for emotional well being leveraging novel modes of user interaction and community engagement etc.
+- Nonaddictive gaming
+- new modes of user interaction and community engagement for deeper human connections
 - [Poster](https://uvents.nus.edu.sg/event/27th-steps/module/CS4350/project/7)
 - [Linkedin Post](https://www.linkedin.com/posts/activity-7403043247255957504-w3o2?utm_source=share&utm_medium=member_desktop&rcm=ACoAADNeR10BV0TjZZycxHf4dO-2h4kM6-U2Xfw)
 - [Join our Discord Community!](https://discord.gg/kMptWuPe3W)
