@@ -18,7 +18,7 @@ I am a master student in MComp(AI) at NUS. I am interested in making AI algorith
 - [I would like to join the team to develop the game together!](https://forms.cloud.microsoft/r/jJVaBQAur1)
 
 ### Emotional Healthy AI Policy
-- [Policy Brief]()
+- [Policy Brief](https://vixra.org/abs/2512.0082)
 
 ### Score based graph generative models using sublinear spectral density estimation 
 - [Preliminary report on viXra.org](https://vixra.org/abs/2512.0142)
@@ -31,13 +31,14 @@ I am a master student in MComp(AI) at NUS. I am interested in making AI algorith
 
 ### Computer vision intern @ [Polybee](https://polybee.co/)
 - Developed QR code detection pipeline leveraging Detectron2 and OpenCV that achieved 90% accuracy in the wild with occlusion, movion blur, and uneven lighting.
-- Proposed using knowledge based and graphical models to further improve the pipeline. 
+- Proposed using knowledge based and graphical models to further improve the pipeline.
 
 ### Software member at [team Bumblebee](https://bumblebee.sg/)
-- Contributed in vision and motion planning.
+- Contributed in vision and mission planning for BBAUV and BBASV.
 
 ### Image to image translation via Wasserstein Gradient flow 
-- 
+- Reviewed state-of-the-art generative modeling methods like diffusion models, EBM, GAN etc, and their application to sim2real transfer for robot learning.
+- Developed and evaluated image-to-image translation methods via Wasserstein Gradient Flow with specifically trained or robust classifier density ratio estimator.
 
 ### Game [Fractalia](https://vixra.org/abs/2512.0082)
 
