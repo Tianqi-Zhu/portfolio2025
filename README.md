@@ -31,7 +31,7 @@ I am a master student in MComp(AI) at NUS. I am interested in making AI algorith
 
 ### Computer vision intern @ [Polybee](https://polybee.co/)
 - Developed QR code detection pipeline leveraging Detectron2 and OpenCV that achieved 90% accuracy in the wild with occlusion, movion blur, and uneven lighting.
-- Proposed using knowledge based and graphical models to further improve the pipeline.
+- Proposed using knowledge base and graphical models to further improve the pipeline.
 
 ### Software member at [team Bumblebee](https://bumblebee.sg/)
 - Contributed in vision and mission planning for BBAUV and BBASV.
@@ -41,8 +41,13 @@ I am a master student in MComp(AI) at NUS. I am interested in making AI algorith
 - Developed and evaluated image-to-image translation methods via Wasserstein Gradient Flow with specifically trained or robust classifier density ratio estimator.
 
 ### Game [Fractalia](https://vixra.org/abs/2512.0082)
+- Explore in 3d Fractal world and enjoy the beauty of recursion.
+- Defeat bugs and collect scared text on history of mathematics.
 
 ## Volunteering
-
+### Volunteer mentor at [CCSGP](https://www.ccsgp.comp.nus.edu.sg/)
+- Mentored kids programming class.
+### Technical consulting associate at [Bridges for Enterprised Singapore](https://www.bridgesforenterprise.com/volunteers/chapters/singapore)
+- Helped [Sonvisage](https://sonvisage.com/about) write some scripts.
 
 
