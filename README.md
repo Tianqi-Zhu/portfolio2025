@@ -1,6 +1,3 @@
-+++
-+++
-
 # Tianqi Zhu
 I am a master student in MComp(AI) at NUS. I am interested in making AI algorithms and systems human-entered, efficient, robust, and generalisable. I am open to PhD/RA/internship/job positions.
 
