@@ -33,10 +33,10 @@ I am a master student in MComp(AI) at NUS. I am interested in making AI algorith
 - Developed QR code detection pipeline leveraging Detectron2 and OpenCV that achieved 90% accuracy in the wild with occlusion, movion blur, and uneven lighting.
 - Proposed using knowledge base and graphical models to further improve the pipeline.
 
-### Software member at [team Bumblebee](https://bumblebee.sg/)
+### Software member @ [NUS Team Bumblebee](https://bumblebee.sg/)
 - Contributed in vision and mission planning for BBAUV and BBASV.
 
-### Image to image translation via Wasserstein Gradient flow 
+### Image to image translation via Wasserstein Gradient flow @ [CLeAR Lab NUS](https://clear-nus.github.io/)
 - Reviewed state-of-the-art generative modeling methods like diffusion models, EBM, GAN etc, and their application to sim2real transfer for robot learning.
 - Developed and evaluated image-to-image translation methods via Wasserstein Gradient Flow with specifically trained or robust classifier density ratio estimator.
 
