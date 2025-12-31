@@ -36,7 +36,7 @@ I am a master student in MComp(AI) at NUS. I am interested in making AI algorith
 ### Software member @ [NUS Team Bumblebee](https://bumblebee.sg/)
 - Contributed in vision and mission planning for BBAUV and BBASV.
 
-### Image to image translation via Wasserstein Gradient flow @ [CLeAR Lab NUS](https://clear-nus.github.io/)
+### Image to image translation via Wasserstein gradient flow @ [CLeAR Lab NUS](https://clear-nus.github.io/)
 - Reviewed state-of-the-art generative modeling methods like diffusion models, EBM, GAN etc, and their application to sim2real transfer for robot learning.
 - Developed and evaluated image-to-image translation methods via Wasserstein Gradient Flow with specifically trained or robust classifier density ratio estimator.
 
