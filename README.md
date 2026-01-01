@@ -9,7 +9,7 @@ I am a master student in MComp(AI) at NUS. I am interested in making AI algorith
 
 ## On-going Projects
 
-### Dacing Spark, Happy Neurons: Game for emotional well-being
+### Dancing Spark, Happy Neurons: Game for emotional well-being
 - Non-addictive gaming
 - new modes of user interaction and community engagement for deeper human connections
 - [Poster](https://uvents.nus.edu.sg/event/27th-steps/module/CS4350/project/7)
@@ -47,7 +47,7 @@ I am a master student in MComp(AI) at NUS. I am interested in making AI algorith
 ## Volunteering
 ### Volunteer mentor at [CCSGP](https://www.ccsgp.comp.nus.edu.sg/)
 - Mentored kids programming class.
-### Technical consulting associate at [Bridges for Enterprised Singapore](https://www.bridgesforenterprise.com/volunteers/chapters/singapore)
+### Technical consulting associate at [Bridges for Enterprise Singapore](https://www.bridgesforenterprise.com/volunteers/chapters/singapore)
 - Helped [Sonvisage](https://sonvisage.com/about), an African healthcare IoT startup, write some scripts.
 
 
