@@ -29,7 +29,7 @@ I am a master student in MComp(AI) at NUS. I am interested in making AI algorith
 
 ## Past projects
 
-## Research assistant @ [IPAL](https://ipal.cnrs.fr/) [DroneBuddy](https://ahlab.org/project/dronebuddy/) project
+### Research assistant @ [IPAL](https://ipal.cnrs.fr/) [DroneBuddy](https://ahlab.org/project/dronebuddy/)
 - Designed user study on LLM for blind drone interaction in a team of three. 
 - Reviewed literature for customizable robot navigation systems for blind guidance, and identified key gaps in user interaction design. 
 
