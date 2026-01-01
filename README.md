@@ -29,6 +29,10 @@ I am a master student in MComp(AI) at NUS. I am interested in making AI algorith
 
 ## Past projects
 
+## Research assistant @ [IPAL](https://ipal.cnrs.fr/) [DroneBuddy](https://ahlab.org/project/dronebuddy/) project
+- Designed user study on LLM for blind drone interaction in a team of three. 
+- Reviewed literature for customizable robot navigation systems for blind guidance, and identified key gaps in user interaction design. 
+
 ### Computer vision intern @ [Polybee](https://polybee.co/)
 - Developed QR code detection pipeline leveraging Detectron2 and OpenCV that achieved 90% accuracy in the wild with occlusion, movion blur, and uneven lighting.
 - Proposed using knowledge base and graphical models to further improve the pipeline.
