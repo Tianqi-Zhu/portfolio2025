@@ -56,5 +56,3 @@ I am a master student in MComp(AI) at NUS. I am interested in making AI algorith
 
 ### Technical consulting associate at [Bridges for Enterprise Singapore](https://www.bridgesforenterprise.com/volunteers/chapters/singapore)
 - Helped [Sonvisage](https://sonvisage.com/about), an African healthcare IoT startup, write some scripts.
-
-
