@@ -48,9 +48,12 @@ I am a master student in MComp(AI) at NUS. I am interested in making AI algorith
 - Explore in 3d Fractal world and enjoy the beauty of recursion.
 - Defeat bugs and collect scared text on history of mathematics.
 
+
 ## Volunteering
+
 ### Volunteer mentor at [CCSGP](https://www.ccsgp.comp.nus.edu.sg/)
 - Mentored kids programming class.
+
 ### Technical consulting associate at [Bridges for Enterprise Singapore](https://www.bridgesforenterprise.com/volunteers/chapters/singapore)
 - Helped [Sonvisage](https://sonvisage.com/about), an African healthcare IoT startup, write some scripts.
 
