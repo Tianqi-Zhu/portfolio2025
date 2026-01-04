@@ -24,7 +24,7 @@ I am a master student in MComp(AI) at NUS. I am interested in making AI algorith
 - [Preliminary report on viXra.org](https://vixra.org/abs/2512.0142)
 
 ### Learning semantic-compliant object placement goals on shelves
-- [FYP Report](https://github.com/Tianqi-Zhu/Object_Rearrangement_FYP_Report)
+- [Report Repo](https://github.com/Tianqi-Zhu/Object_Rearrangement_FYP_Report)
 
 
 ## Past projects
